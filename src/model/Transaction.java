@@ -18,6 +18,10 @@ public class Transaction {
         this.description = description;
     }
 
+//    public Transaction() {
+//
+//    }
+
     //GETTERS - these allow us to access the fields since they are private
     public double getAmount(){
         return amount;
